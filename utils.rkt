@@ -9,7 +9,7 @@
 ;;;   A few sample utilities, created as part of a lab on GitHub.
 
 ;;; Procedure:
-;;;   first-n-numbers
+;;;   funs
 ;;; Parameters:
 ;;;   n, a positive integer
 ;;; Purpose:
