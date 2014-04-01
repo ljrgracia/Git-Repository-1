@@ -1,7 +1,7 @@
 #lang racket
 (require gigls/unsafe)
 ;;; Procedure:
-;;;   nums
+;;;   first-n-numbers
 ;;; Parameters:
 ;;;   n, a positive integer
 ;;; Purpose:
